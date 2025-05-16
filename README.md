@@ -1,2 +1,3 @@
-# odin-recipes
-I will be learning website development skills to put together a website for recipes.
+# Chezzuhs-recipes
+This website contains many taty recipes, such as 
+apple pie
