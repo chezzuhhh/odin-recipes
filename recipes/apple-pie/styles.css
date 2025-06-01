@@ -1,0 +1,43 @@
+html{
+    box-sizing: border-box;
+}
+
+*{
+    background-color: blanchedalmond;
+}
+
+#title{
+    border: 5px solid gray;
+    border-style:dotted;
+    padding: 10px;
+    width: 600px;
+    height: auto;
+}
+
+#golden-delicious{
+    color:gold;
+}
+
+#Jonagold{
+    color:red;
+}
+
+#granny-smith{
+    color:green;
+}
+
+.ingredients-header{
+    margin-bottom: 5px;
+}
+
+.servings{
+    margin-top:5px;
+}
+
+#nutrition-facts-header{
+    margin-bottom: 5px;
+}
+
+#nutrition-label{
+    margin-top: 5px;
+}
